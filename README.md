@@ -1,4 +1,4 @@
-<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4087459/cover_image/regular_1708x683/op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-2167acb0f613448f809d0db0cee187f1.png" alt="gifer"/>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vladimir-maslenkov-464482181/" target="_blank">

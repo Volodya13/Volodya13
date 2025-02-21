@@ -7,7 +7,7 @@
   <a href="https://github.com/Volodya13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://t.me/Vladimir_nol" target="_blank">
+  <a href="https://t.me/vladimir_maslenkov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -30,7 +30,7 @@ My next step will be learning the server-side of web applications, as well as st
 - 🔭 I’m currently working on ILAB (Almaty web-studio)
 - 🌱 I am constantly looking for ways to improve myself in my profession. (courses, guide videos, conferences, meet-ups)
 - 👯 I’m looking to collaborate in order to gain more experience and, at the same time, be highly useful for your team by contributing my skills and knowledge
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Vladimir_nol-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Vladimir_nol)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-vladimir_maslenkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladimir_maslenkov)
 
 ## :hammer_and_wrench: Languages and Tools:
 

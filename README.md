@@ -20,14 +20,8 @@
 
 ## :man_technologist: About me:
 
-Let me tell you a couple of words about myself. My name is Vladimir, and I live in Almaty, Kazakhstan. A couple of years ago 
-I decided to start learning through several courses to change my profession and become a frontend developer. 
-And now I've completed a course at **[RollingScopes School](https://rs.school/courses)**. I've also been working as a frontend developer 
-for more than one and half a years. 
+My name is Vladimir, and I live in Almaty, Kazakhstan. 
 
-My next step will be learning the server-side of web applications, as well as studying and using development tools in NodeJS.
-
-- 🔭 I’m currently working on ILAB (Almaty web-studio)
 - 🌱 I am constantly looking for ways to improve myself in my profession. (courses, guide videos, conferences, meet-ups)
 - 👯 I’m looking to collaborate in order to gain more experience and, at the same time, be highly useful for your team by contributing my skills and knowledge
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-vladimir_maslenkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladimir_maslenkov)
